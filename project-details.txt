@@ -1,0 +1,18 @@
+
+--------------------------------------------------------------------
+
+	  Registration Template with Database connectivity
+
+--------------------------------------------------------------------
+
+Technologies used - Html, css, bootstrap, jsp
+
+	- Using jsp pages tried to design a template that saves email address provided by user to the database (if connected)
+
+	- Inline css is used where required mostly inline css is used to add padding any margins
+
+	- Added custom font families using @font-face property
+
+	- I have created two projects one with bootstrap and css and another with pure css
+
+--------------------------------------------------------------------
